@@ -7,7 +7,7 @@ Profile Description:
 This profile contains the minimum security relevant \n \ configuration settings recommended by Red Hat, Inc for \n \ Red Hat Enterprise Linux 7 instances deployed by Red Hat Certified \n \ Cloud Providers.  
   
 Benchmark ID:  RHEL-7  
-Benchmark Version:  0.1.40  
+Benchmark Version:  0.1.41  
   
 XCCDF Version:  1.1  
   
